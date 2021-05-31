@@ -1,0 +1,1 @@
+This project is part of the paper [Jin, B. & Yu, M. (2021). Note on the dominance rules in the exact algorithm for the container pre-marshalling problem by Tanaka & Tierney (2018). [*European Journal of Operational Research*](https://doi.org/10.1016/j.ejor.2020.12.041), 293(2), 802–807].
